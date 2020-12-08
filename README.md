@@ -8,7 +8,7 @@ The analysis is undertaken using the statistical software R, and presented as a 
 
 # Explore the analysis interactively on binder
 
-You can run an interactive session to explore the notebooks on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brentnall/paper-mammodensity-tamprev/master)
+You can run an interactive session to explore the notebooks on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brentnall/paper-mammodensity-tamprev/HEAD?filepath=mammo-dense-change-analysis.ipynb)
 
 # License
 
